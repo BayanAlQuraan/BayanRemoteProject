@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BayanRemoteProject", "BayanRemoteProject.csproj", "{1D74FD31-CB2C-4351-9253-3FD960879680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D74FD31-CB2C-4351-9253-3FD960879680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D74FD31-CB2C-4351-9253-3FD960879680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D74FD31-CB2C-4351-9253-3FD960879680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D74FD31-CB2C-4351-9253-3FD960879680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94AF6EC0-7E50-4B19-A105-3D68F66E4C31}
+	EndGlobalSection
+EndGlobal
